@@ -1,2 +1,3 @@
-# wazu.me
-Public Wazu.me 
+### WAZU
+Stop losing important stuff in WhatsApp.  
+https://wazu.me/
